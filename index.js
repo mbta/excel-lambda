@@ -125,7 +125,7 @@ exports.handler = async (event, context, callback) => {
           <p>Processed - the time sheet was approved</p>
           <p>Submitted - the time sheet was submitted and is pending approval</p>
           <p>Pending - the time sheet has not been submitted for approval</p>`,
-          to: "rmahoney@mbta.com",
+          to: "vmsuploads@adeccona.com",
           cc: "astroman@mbta.com",
           attachments: [
             {
